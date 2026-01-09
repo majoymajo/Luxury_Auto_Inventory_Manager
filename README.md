@@ -38,23 +38,5 @@ I built this Luxury Auto Inventory Manager as a way to dive deep into the Angula
 - **Learning Showcase**: Demonstrates mastery of Angular concepts from basics to advanced patterns
 - **Continuously Evolving**: Always room for new features and improvements!
 
-### 💡 The Journey
-
-This project taught me:
-- The power of Angular's component-based architecture
-- How to work with reactive forms and HTTP clients
-- The importance of code organization and modularity
-- Building user-friendly interfaces that actually make sense
-- And most importantly – that debugging at 2 AM builds character! 😄
 
 Whether you're here to explore, learn, or get inspired – welcome aboard! Feel free to browse through the code, try out the features, and maybe even contribute. After all, the best journeys are shared ones! 🌈
-
----
-
-<div align="center">
-
-**Made with 💖 and lots of ☕ by Majo**
-
-*"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
-</div>
