@@ -4,7 +4,7 @@
 
 ## 🎯 Project Overview
 
-Welcome to the **Luxury Auto Inventory Manager** – a full-featured web application built with Angular 17 that brings the excitement of luxury car dealerships to your browser! This project showcases a complete CRUD (Create, Read, Update, Delete) system for managing high-end vehicles with an intuitive and responsive user interface.
+A full-featured web application built with Angular 17 . This project showcases a complete CRUD (Create, Read, Update, Delete) system for managing high-end vehicles with an intuitive and responsive user interface.
 
 ### ✨ Key Features
 
@@ -27,15 +27,9 @@ Welcome to the **Luxury Auto Inventory Manager** – a full-featured web applica
 - **Testing**: Jasmine & Karma
 - **Build Tools**: Angular CLI
 
-## 🎭 About This Project
-
-### 👋 Hello, I'm Majo! 
-
 This project is more than just code – it's a journey of passion, learning, and creativity! 🚀
-
 I built this Luxury Auto Inventory Manager as a way to dive deep into the Angular ecosystem and explore the art of modern web development. From the first `ng new` command to implementing complex features like HTTP interceptors and dynamic routing, every line of code represents a challenge overcome and a lesson learned.
 
-**Why luxury cars?** Because if you're going to learn something new, why not make it exciting! 🏁 This project combines my enthusiasm for cutting-edge technology with the glamour of high-performance vehicles. Each feature was crafted with attention to detail, just like the cars it manages.
 
 ### 🌟 What Makes This Special
 
